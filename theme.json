@@ -16,7 +16,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#4a4a52",
+            "#919191",
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
@@ -121,9 +121,12 @@
         "PRIMARY_DARK_630": "#101014",
         "PRIMARY_DARK_800": "#101014",
         "BRAND_NEW": "#6e6af6",
-        "BRAND_NEW_360": "#6e6af6",
+        "BRAND_NEW_360": "#5a57c9",
         "WHITE": "#FFFFFF",
-        "CHAT_GREY": "#101014"
+        "CHAT_GREY": "#101014",
+        "HIGHLIGHT": "#6e6af6",
+        "HIGHLIGHT_HOVER": "#5a57c9",
+        "HIGHLIGHT_ACTIVE": "#4e4ab1"
     },
     "spec": 2
 }
